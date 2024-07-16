@@ -16,7 +16,6 @@ QueryMaster efficiently handles question-answer validation tasks for PDF documen
 **Directory Structure**
 
 ```
-A:
 ├── algorithm
 │   ├── code files 
 │   │   ├── compute_graph.py
